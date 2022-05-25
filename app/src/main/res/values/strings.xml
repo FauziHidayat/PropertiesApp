@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PropertiesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="exterior">Exterior</string>
+    <string name="interior">Interior</string>
+    <string name="place_object">Place at target</string>
+    <string name="move_object">Move to target</string>
+
+
+    <string name="text_guide_1">1. Tekan main untuk memulai</string>
+    <string name="text_guide_2">2. Arahkan kamera ke marker</string>
+    <string name="text_guide_3">3. Jika marker terdeteksi maka objek 3D akan muncul</string>
+    <string name="about_app">Aplikasi ini adalah aplikasi yang menampilkan gambar 3D Properti menggunakan teknologi Augmented Reality berbasis Android</string>
+    <string name="title_activity_fps">FpsActivity</string>
+
+    <string name="mulai">MULAI</string>
+    <string name="panduan">PANDUAN</string>
+    <string name="tentang">TENTANG</string>
+    <string name="keluar">KELUAR</string>
+    <string name="kembali">KEMBALI</string>
+</resources>

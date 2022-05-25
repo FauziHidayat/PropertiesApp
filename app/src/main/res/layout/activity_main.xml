@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ic_background_main"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_start"
+        android:text="Menu"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/orange_med"
+        app:strokeColor="@color/grey_med"
+        app:strokeWidth="4dp"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btn_guide"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/orange_med"
+        app:strokeColor="@color/grey_med"
+        app:strokeWidth="4dp"
+        android:layout_marginBottom="20dp"
+        android:text="Panduan"/>
+
+    <Button
+        android:id="@+id/btn_about"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/orange_med"
+        app:strokeColor="@color/grey_med"
+        app:strokeWidth="4dp"
+        android:text="Tentang"/>
+
+
+</LinearLayout>
